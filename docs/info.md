@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Three different gates are responsible for three different LEDs (Red, Green, and Blue)
 
 ## How to test
 
-Explain how to use your project
+Try different combinations of inputs to see which LEDs are on and which remain off
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Red LED, Blue LED, and Green LED
