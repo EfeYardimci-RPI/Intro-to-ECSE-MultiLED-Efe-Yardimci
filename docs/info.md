@@ -17,4 +17,4 @@ Try different combinations of inputs to see which LEDs are on and which remain o
 
 ## External hardware
 
-Red LED, Blue LED, and Green LED
+Red LED, Blue LED, and Green LED.
